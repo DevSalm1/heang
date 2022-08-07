@@ -17,19 +17,18 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string> </string>
+<string></string>
 <key>bundle-version</key>
-<string>4.5.1</string>
+<string>19.3.0</string>
 <key>kind</key>
 <string>software</string>
-<key>Lyheang</key>
-<string>ESign
-
-Telegram: Lyheang
-
-@Lyheang1
-
-</string>
+<key>title</key>
+<string>ESign 
+  
+  Telegram: Lyheang
+  @Lyheang1
+  
+  </string>
 </dict>
 </dict>
 </array>
