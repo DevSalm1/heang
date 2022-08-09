@@ -1,0 +1,22 @@
+body, html{
+	margin:0px;
+	font-family:helvetica;
+	overflow-x:hidden;
+	height:100%;
+	background: rgb(255, 255, 255) url(https://www.sachcharak.com/bg/Backgroud.png) no-repeat;
+  background-size: 100%;
+            width: 100%;
+            height: 100%;
+}
+
+.button{
+	display:inline-block;
+	width:170px;
+	padding:10px;
+	border-radius:5px;
+	background-color:#3667d8;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+}
