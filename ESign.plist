@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/esign-rak-4.5.1/ESign%20-%20RAK_4.5.1.ipa</string>
+<string>https://archive.org/download/esign-rak-4.5.1-1660018922/ESign%20-%20RAK_4.5.1_1660018922.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -24,11 +24,11 @@
 <string>software</string>
 <key>title</key>
 <string>ESign 
-  
-  Telegram: Lyheang
+ Telegram: Lyheang
   @Lyheang1
-  
-  </string>
+ Telegram: RAK
+  @RcSrAK
+</string>
 </dict>
 </dict>
 </array>
