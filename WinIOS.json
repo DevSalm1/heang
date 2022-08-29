@@ -12,14 +12,14 @@
             "bundleIdentifier": "com.hoangbestprosafe.ig",
             "developerName": "Hoang IOS",
             "version": "2.1.0",
-            "versionDate": "2022-08-28T11:36:00+08:00",
+            "versionDate": "2022-08-26T11:36:00+08:00",
             "versionDescription": "WinIOS Hack Global V1",
             "downloadURL": "https://is.gd/WinIOSGlobalV1",
             "localizedDescription": "PUBG MOBILE",
             "iconURL": "https://is.gd/PUBG_GL_WinIOS_V1",
             "tintColor": "018084",
             "isLanZouCloud": 1,
-            "size": 20.500e+8
+            "size": 22.500e+8
        },
       {
   "name": "PUBG MOBILE",
@@ -30,10 +30,10 @@
             "versionDescription": "WinIOS Pro Global V1",
             "downloadURL": "https://is.gd/WinIOSGlobalV1",
             "localizedDescription": "PUBG MOBILE",
-            "iconURL": "https://is.gd/PUBG_GL_WinIOS_V1",
+            "iconURL": "https://is.gd/PUBG_GL_WinIOSPro_V1",
             "tintColor": "018084",
             "isLanZouCloud": 1,
-            "size": 20.500e+8
+            "size": 22.500e+8
        },
     ]
 }
