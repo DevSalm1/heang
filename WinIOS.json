@@ -3,7 +3,7 @@
     "identifier": "@Lyheang1",
     "sourceURL": "https://www.heangzover.com",
     "sourceImage": "https://is.gd/HeangLoGo",
-    "sourcceDescription": "Telegram: RAK / Contact: @Lyheang1",
+    "sourcceDescription": "Telegram: Lyheang / Contact: @Lyheang1",
     "apps": [
 
 
@@ -19,7 +19,21 @@
             "iconURL": "https://is.gd/PUBG_GL_WinIOS_V1",
             "tintColor": "018084",
             "isLanZouCloud": 1,
-            "size": 19.999e+8
+            "size": 20.500e+8
+       },
+      {
+  "name": "PUBG MOBILE",
+            "bundleIdentifier": "com.hoangbestprosafe.ig",
+            "developerName": "Hoang IOS",
+            "version": "2.1.0",
+            "versionDate": "2022-08-28T11:36:00+08:00",
+            "versionDescription": "WinIOS Pro Global V1",
+            "downloadURL": "https://is.gd/WinIOSGlobalV1",
+            "localizedDescription": "PUBG MOBILE",
+            "iconURL": "https://is.gd/PUBG_GL_WinIOS_V1",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 20.500e+8
        },
     ]
 }
