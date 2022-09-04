@@ -1,7 +1,8 @@
 {
-    "name": "RAK & Lyheang",
+    "name": "Lyheang",
     "identifier": "@Lyheang1",
-    "sourceURL": "https://www.heangzover.com",
+    "sourceURL": "",
+    "apps": [
         {
             "name": "CarX Street - RCS",
             "bundleIdentifier": "com.carxtech.sr",
