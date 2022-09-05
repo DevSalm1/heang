@@ -11,8 +11,24 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://ipa.ipasign.cc:2052/sign/20220905160847535/c9102695-ec57-17cc-ef63-64e89bce61d8/resign_20220905160847535.ipa</string>
+<string>https://is.gd/xsDCX1</string>
 </dict>
+<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.heangzover.com/image/Profile.JPG</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.heangzover.com/image/Profile.JPG</string>
+				</dict>
 </array>
 <key>metadata</key>
 <dict>
