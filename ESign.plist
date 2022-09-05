@@ -11,24 +11,25 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/esign-heang-4.5.1/ESign%20-%20HEANG_4.5.1.ipa</string>
+<string>https://is.gd/Esign_Heang_v4_5_2</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>LyHeang</string>
+<string>free.p3.xyz.yyyue.esign</string>
 <key>bundle-version</key>
-<string>19.3.0</string>
+<string>4.5.2</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>ESign 
- Telegram: Lyheang
-  @Lyheang1
- Telegram: RAK
-  @RcSrAK
-</string>
+<string>ESign - Heang
+
+Channel : @HeangIOSIPA
+
+Telegram : @Lyheang1
+
+Enjoy✅</string>
 </dict>
 </dict>
 </array>
