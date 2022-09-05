@@ -11,41 +11,35 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://is.gd/Esign_Heang_v4_5_2</string>
-</dict>
-
+<string>https://is.gd/0IAYfI</string>
+</dict> 
 <dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://www.heangzover.com/icon/ESign-Heang.PNG</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://www.heangzover.com/icon/ESign-Heang.PNG</string>
-				</dict>
-
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://www.heangzover.com/image/Heang.PNG</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://www.heangzover.com/image/Heang.PNG</string>
+</dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>free.p3.xyz.yyyue.esign</string>
+<string>p3.xyz.yyyue.esign.heang</string>
 <key>bundle-version</key>
 <string>4.5.2</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>ESign - Heang
-Telegram : @Lyheang1
-
-Channel : @HeangIOSIPA
-Enjoy✅</string>
+<string>ESign - Heang</string>
 </dict>
 </dict>
 </array>
