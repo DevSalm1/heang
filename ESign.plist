@@ -13,6 +13,24 @@
 <key>url</key>
 <string>https://is.gd/Esign_Heang_v4_5_2</string>
 </dict>
+
+<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.heangzover.com/icon/ESign-Heang.PNG</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.heangzover.com/icon/ESign-Heang.PNG</string>
+				</dict>
+
 </array>
 <key>metadata</key>
 <dict>
