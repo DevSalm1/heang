@@ -1,23 +1,49 @@
 {
     "name": "Lyheang",
-    "identifier": "@Lyheang1",
-    "sourceURL": "https://www.heangzover.com",
+    "identifier": "https://www.heangzover.com",
+    "sourceURL": "https://www.heangzover.com/repo/heang.json",
     "apps": [
         {
             "name": "CarX Street - RCS",
             "bundleIdentifier": "com.carxtech.sr",
-            "developerName": "RAK",
+            "developerName": "@RcSrAK",
             "version": "0.5.0",
-            "versionDate": "2022-09-04",
+            "versionDate": "2022-09-04T23:00:00+08:00",
+            "versionDescription": "IGG & RCS DLG Tutorial Hack : @CarXStreetIOSChannel",
             "downloadURL": "https://archive.org/download/car-x-street-rcs-v-0.5.0/CarX%20Street%20-%20RCS_V0.5.0.ipa",
-            "localizedDescription": "IGG & RCS DLG Tutorial Hack : @CarXStreetIOSChannel",
+            "localizedDescription": "CarX Street - RCS",
             "iconURL": "https://www.heangzover.com/image/CarXStreet.PNG",
-            "tintColor": "FFC300",
-            "size": 3.42e+9,
-            "screenshotURLs": [
-                "https://www.heangzover.com/image/CarXStreet.PNG"
-            ]
+            "tintColor": "0593ff",
+            "isLanZouCloud": 0,
+            "size": 3.43e+9                    
         },
-       
+        {
+            "name": "Car Parking - RCS",
+            "bundleIdentifier": "com.aidana.cardriving.ios",
+            "developerName": "@RcSrAK",
+            "version": "4.7.2",
+            "versionDate": "2022-07-21T23:00:00+08:00",
+            "versionDescription": "Hacked Free In App Purchase [IAP]",
+            "downloadURL": "https://archive.org/download/car-parking-rcs-v-4.7.2/Car%20Parking%20-%20RCS%20V4.7.2.ipa",
+            "localizedDescription": "Car Parking - RCS",
+            "iconURL": "https://www.heangzover.com/image/CarParking.PNG",
+            "tintColor": "0593ff",
+            "isLanZouCloud": 0,
+            "size": 553570000
+        },
+        {
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang",
+            "developerName": "Lyheang",
+            "version": "1.19.22",
+            "versionDate": "2022-09-02T23:00:00+08:00",
+            "versionDescription": "Minecraft Paid Game 6.99$ in AppStore",
+            "downloadURL": "https://archive.org/download/minecraft-v-1.19.22/Minecraft%20%5Bv1.19.22%5D.ipa",
+            "localizedDescription": "Minecraft",
+            "iconURL": "https://www.heangzover.com/icon/Icon%20Minecraft%20.PNG",
+            "tintColor": "0593ff",
+            "isLanZouCloud": 0,
+            "size": 8.08e+8
+        }
     ]
 }
