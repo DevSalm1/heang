@@ -1,7 +1,7 @@
 {
     "name": "Lyheang",
     "identifier": "@Lyheang1",
-    "sourceURL": "https://www.heangzover.com",
+    "sourceURL": "https://www.heangzover.com/repo/WinIOS.json",
     "apps": [
          {
             "name": "PUBG MOBILE",
@@ -13,7 +13,7 @@
             "localizedDescription": "WinIOS Pro Full Global V2",
             "iconURL": "https://www.heangzover.com/icon/pubg_gl.png",
             "tintColor": "FFC300",
-            "size": 2.17e+9,
+            "size": 2.1e+9,
             "screenshotURLs": [
                 "https://www.heangzover.com/icon/pubg_gl.png"
             ]
@@ -29,7 +29,7 @@
             "localizedDescription": "WinIOS Lite Global V2",
             "iconURL": "https://www.heangzover.com/icon/pubg_gl.png",
             "tintColor": "FFC300",
-            "size": 2.17e+9,
+            "size": 2.1e+9,
             "screenshotURLs": [
                 "https://www.heangzover.com/icon/pubg_gl.png"
             ]
@@ -44,7 +44,7 @@
             "localizedDescription": "WinIOS Lite Global V2",
             "iconURL": "https://www.heangzover.com/icon/pubg_kr.png",
             "tintColor": "FFC300",
-            "size": 2.17e+9,
+            "size": 2.1e+9,
             "screenshotURLs": [
                 "https://www.heangzover.com/icon/pubg_kr.png"
             ]
