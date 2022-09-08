@@ -3,7 +3,23 @@
     "identifier": "@Lyheang1",
     "sourceURL": "https://www.heangzover.com",
     "apps": [
+         {
+            "name": "PUBG MOBILE",
+            "bundleIdentifier": "com.hoangbestprosafe.ig",
+            "developerName": "WINIOS Team",
+            "version": "19.5",
+            "versionDate": "2022-09-08",
+            "downloadURL": "https://archive.org/download/winios-pro-full-global-v-3-2/WINIOS_PRO_FULL_GLOBAL_v3-2.ipa",
+            "localizedDescription": "WinIOS Pro Full Global V2",
+            "iconURL": "https://www.heangzover.com/icon/pubg_gl.png",
+            "tintColor": "FFC300",
+            "size": 2.175e+9,
+            "screenshotURLs": [
+                "https://www.heangzover.com/icon/pubg_gl.png"
+            ]
+        },
         {
+         {
             "name": "PUBG MOBILE",
             "bundleIdentifier": "com.hoangbestprosafe.ig",
             "developerName": "WINIOS Team",
@@ -13,7 +29,7 @@
             "localizedDescription": "WinIOS Lite Global V2",
             "iconURL": "https://www.heangzover.com/icon/pubg_gl.png",
             "tintColor": "FFC300",
-            "size": 2.2e+9,
+            "size": 2.175e+9,
             "screenshotURLs": [
                 "https://www.heangzover.com/icon/pubg_gl.png"
             ]
@@ -28,7 +44,7 @@
             "localizedDescription": "WinIOS Lite Global V2",
             "iconURL": "https://www.heangzover.com/icon/pubg_kr.png",
             "tintColor": "FFC300",
-            "size": 2.2e+9,
+            "size": 2.175e+9,
             "screenshotURLs": [
                 "https://www.heangzover.com/icon/pubg_kr.png"
             ]
