@@ -29,7 +29,7 @@
             "iconURL": "https://www.heangzover.com/image/CarParking.PNG",
             "tintColor": "0593ff",
             "isLanZouCloud": 0,
-            "size": 581870000
+            "size": 581000000
         },
         {
             "name": "Minecraft",
@@ -43,7 +43,7 @@
             "iconURL": "https://www.heangzover.com/icon/Icon%20Minecraft%20.PNG",
             "tintColor": "0593ff",
             "isLanZouCloud": 0,
-            "size": 8.4e+8
+            "size": 8.46e+8
         }
     ]
 }
