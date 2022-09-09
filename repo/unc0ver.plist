@@ -28,6 +28,14 @@
 <true/>
 <key>url</key>
 <string>https://www.heangzover.com/icon/Unc0ver.PNG</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://www.heangzover.com/icon/Unc0ver.PNG</string>
 </dict> 
 </array>
 <key>metadata</key>
