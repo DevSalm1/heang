@@ -9,13 +9,14 @@ body, html{
             height: 100%;
 }
 
-. button{
- 	display:inline-block;
- 	width:170px;
- 	padding:10px;
- 	border-radius:5px;
- 	background-color:#3667d8;
- 	margin:10px;
- 	color:white;
- 	text-decoration:none;
- 	font-weight:500;
+ .button{
+	display:inline-block;
+	width:80px;
+	padding:10px;
+	border-radius:5px;
+	background-color:#e74f4f;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+}
