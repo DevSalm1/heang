@@ -18,18 +18,33 @@
             "size": 3.45e+9                    
         },
         {
-            "name": "Car Parking - RCS",
-            "bundleIdentifier": "com.aidana.cardriving.ios",
+            "name": "CarX Drift Racing 2 - RCS",
+            "bundleIdentifier": "com.carx-tech.carxdr2",
             "developerName": "@RcSrAK",
-            "version": "4.7.2",
-            "versionDate": "2022-07-21T23:00:00+08:00",
-            "versionDescription": "Hacked Free In App Purchase [IAP]",
-            "downloadURL": "https://archive.org/download/car-parking-rcs-v-4.7.2/Car%20Parking%20-%20RCS%20V4.7.2.ipa",
-            "localizedDescription": "Car Parking - RCS",
-            "iconURL": "https://www.heangzover.com/image/CarParking.PNG",
+            "version": "1.22.0",
+            "versionDate": "2022-09-16T23:00:00+08:00",
+            "versionDescription": "- Free Store (Buy everything for FREE). This is not Free iAP",
+            "downloadURL": "https://archive.org/download/car-x-drift-racing-2-rcs-v-1.22.0/CarX%20Drift%20Racing%202%20-%20RCS%20%5Bv1.22.0%5D.ipa",
+            "localizedDescription": "CarX Drift Racing 2 - RCS",
+            "iconURL": "https://www.heangzover.com/icon/CarxDR2.PNG",
             "tintColor": "0593ff",
             "isLanZouCloud": 0,
-            "size": 578000000
+            "size": 2.3e+9
+        },
+        {
+            "name": "FR Legends",
+            "bundleIdentifier": "com.aidana.cardriving.ios",
+            "developerName": "@Unknow",
+            "version": "4.7.2",
+            "versionDate": "2022-08-23T23:00:00+08:00",
+            "versionDescription": "➜ Unlimited Cash Gold & Layer
+",
+            "downloadURL": "https://archive.org/download/car-parking-rcs-v-4.7.2/Car%20Parking%20-%20RCS%20V4.7.2.ipa",
+            "localizedDescription": "FR Legends",
+            "iconURL": "https://www.heangzover.com/icon/frlegends.PNG",
+            "tintColor": "0593ff",
+            "isLanZouCloud": 0,
+            "size": 1.05e+8
         },
         {
             "name": "Minecraft",
@@ -40,7 +55,7 @@
             "versionDescription": "Minecraft Paid Game 6.99$ in AppStore",
             "downloadURL": "https://archive.org/download/minecraft-v-1.19.22/Minecraft%20%5Bv1.19.22%5D.ipa",
             "localizedDescription": "Minecraft",
-            "iconURL": "https://www.heangzover.com/icon/Icon%20Minecraft%20.PNG",
+            "iconURL": "https://www.heangzover.com/icon/minecraft.PNG",
             "tintColor": "0593ff",
             "isLanZouCloud": 0,
             "size": 8.49e+8
