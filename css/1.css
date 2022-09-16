@@ -22,7 +22,7 @@ button {
 }
 
 button:hover {
-  background: #c4e201;
+  background: #0080ff;
 }
 
 button > svg {
