@@ -1,3 +1,12 @@
+margin:0px;
+	font-family:helvetica;
+	overflow-x:hidden;
+	height:100%;
+	background: rgb(255, 255, 255) url(https://www.sachcharak.com/bg/Backgroud.png) no-repeat;
+  background-size: 100%;
+            width: 100%;
+            height: 100%;
+}
 button {
   cursor: pointer;
   font-weight: 700;
@@ -5,7 +14,7 @@ button {
   transition: all .2s;
   padding: 10px 20px;
   border-radius: 100px;
-  background: #cfef00;
+  background: #0080ff;
   border: 1px solid transparent;
   display: flex;
   align-items: center;
