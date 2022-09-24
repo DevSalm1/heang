@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://is.gd/CZYRt7</string>
+<string>/Sources/Esign_4.6.3.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,18 +33,17 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>AIA.p3.xyz.yyyue.Esign</string>
+<string>p3.esign.yyyue.xyz</string>
 <key>bundle-version</key>
-<string>4.6.2</string>
+<string>4.6.3</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>ESign - Heang
-V 4.6.2 
+<string>ESign
 
-Channel : @HeangIOSIPA
+CHANNEL :  @HeangIOSIPA
 
-✅</string>
+Enjoy✅😊</string>
 </dict>
 </dict>
 </array>
