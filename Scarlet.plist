@@ -12,7 +12,7 @@
 <string>software-package</string>
 <key>url</key>
 <string>https://www.heangzover.com/Sources/Scarlet_1.0.ipa</string>
-</dict>
+</dict> 
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
@@ -33,13 +33,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>app.get.scarlet.com</string>
+<string>com.get.scarlet.app</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Scarlet
+<string>Scarlet 
 
 CHANNEL : @HeangIOSIPA
 
