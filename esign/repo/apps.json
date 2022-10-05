@@ -9,7 +9,7 @@
             "developerName": "@RcSrAK",
             "version": "0.5.1",
             "versionDate": "2022-10-01T15:00:00+08:00",
-            "versionDescription": "CarX Street - RCS \n→IGG & RCS DLG Added \nFor Tutorial Hacks Sivlers Golds & EXP Level In https://t.me/CarXStreetIOSChannel",
+            "versionDescription": "CarX Street - RCS \n→ IGG & RCS DLG Added \nFor Tutorial Hacks Sivlers Golds & EXP Level In https://t.me/CarXStreetIOSChannel",
             "downloadURL": "https://bit.ly/3M6HeUg",
             "localizedDescription": "CarX Street - RCS ",
             "iconURL": "https://www.heangzover.com/image/CarXStreet.PNG",
@@ -23,7 +23,7 @@
             "developerName": "@iosgods",
             "version": "1.93.1",
             "versionDate": "2022-10-02T16:18:00+08:00",
-            "versionDescription": "Free Fire Hack \nAuto HeadShot",
+            "versionDescription": "Free Fire Hack \n→ Auto HeadShot",
             "downloadURL": "https://is.gd/V6xrZE",
             "localizedDescription": "Free Fire Hack",
             "iconURL": "https://is.gd/SyTOLt",
@@ -65,13 +65,27 @@
             "developerName": "MIRO92",
             "version": "17.39.4",
             "versionDate": "2022-10-04T16:18:00+08:00",
-            "versionDescription": "YouTube uYou+_v2.1 \nNo Ads \nPicture in Picture \nPlay in Background \nDownload Mp3 & Mp4",
+            "versionDescription": "YouTube uYou+_v2.1 \n→ No Ads [ iSponsorBlack ] \n→ Picture in Picture \n→ Play in Background \n→ Download Mp3 & Mp4",
             "downloadURL": "https://is.gd/UC9Kiq",
             "localizedDescription": "YouTube uYou+,",
             "iconURL": "https://www.heangzover.com/image/yt-uyou.PNG",
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 1.355e+8
-        }
+        },
+        {
+            "name": "ProCreate",
+            "bundleIdentifier": "au.com.savageinteractive.procreate",
+            "developerName": "Procreate",
+            "version": "5.2.7",
+            "versionDate": "2022-10-04T16:18:00+08:00",
+            "versionDescription": "Paid App 9.99$ in AppStore \n 📝Note :- This App Only Support iPad",
+            "downloadURL": "https://is.gd/DlPM8K",
+            "localizedDescription": "ProCreate",
+            "iconURL": "https://is.gd/V1VHeQ",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 6e+8
+        },
     ]
 }
