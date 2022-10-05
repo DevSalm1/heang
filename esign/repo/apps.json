@@ -1,5 +1,5 @@
 {
-    "name": "HeangIOSIPA",
+    "name": "Heang IOS IPA",
     "identifier": "heangzover.com",
     "sourceURL": "https://www.heangzover.com/esign/repo/apps.json",
     "apps": [
@@ -29,7 +29,7 @@
             "iconURL": "https://is.gd/SyTOLt",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 5.75e+8
+            "size": 5.367e+8
         },
         {
             "name": "Street of Rage 4",
@@ -43,7 +43,7 @@
             "iconURL": "https://is.gd/dXhv1A",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 1.66e+9
+            "size": 1.5e+9
         },
         {
             "name": "Minecraft",
@@ -57,7 +57,7 @@
             "iconURL": "https://is.gd/3WCBET",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 6e+8
+            "size": 5.673e+8
         },
         {
             "name": "YouTube uYou+",
@@ -85,7 +85,7 @@
             "iconURL": "https://is.gd/V1VHeQ",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 6e+8
+            "size": 4.836e+8
         },
         {
             "name": "CPU-x Pro",
@@ -99,7 +99,7 @@
             "iconURL": "https://is.gd/O8KmzD",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 1.12e+7
+            "size": 9.8e+6
         },
 
         {
@@ -108,13 +108,13 @@
             "developerName": "Null's",
             "version": "14.635.6",
             "versionDate": "2022-10-05T16:18:00+08:00",
-            "versionDescription": "Nulls Clash \n→ Private Sever \n→ Unlimited Resources \n→ MutiPlayers",
+            "versionDescription": "Nulls Clash IOS \n→ Private Sever \n→ Unlimited Resources \n→ MutiPlayers",
             "downloadURL": "http://dnull.xyz/latest_coc_i",
             "localizedDescription": "Clash of Clan",
             "iconURL": "https://is.gd/HT0KJC",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 2.6e+8
+            "size": 2.55e+8
         },
         {
             "name": "Clash Royale",
@@ -122,13 +122,13 @@
             "developerName": "Null's",
             "version": "3.2872.3",
             "versionDate": "2022-10-05T16:18:00+08:00",
-            "versionDescription": "Nulls Royale \n→ Private Sever \n→ Unlimited Resources \n→ MutiPlayers \n→ Custom Cards",
+            "versionDescription": "Nulls Royale IOS \n→ Private Sever \n→ Unlimited Resources \n→ MutiPlayers \n→ Custom Cards",
             "downloadURL": "http://dnull.xyz/latest_cr_i",
             "localizedDescription": "Clash Royale",
             "iconURL": "https://is.gd/5lseeR",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 1.64e+8
+            "size": 1.6e+8
         },
         {
             "name": "Brawl Star",
@@ -142,7 +142,7 @@
             "iconURL": "https://is.gd/OB2KO9",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 2.85e+8
+            "size": 2.8e+8
         },
 
     ]
