@@ -1,10 +1,10 @@
 {
-    "name": "Lyheang AppStore,
+    "name": "Lyheang AppStore",
     "identifier": "heangzover.com",
     "sourceURL": "https://www.heangzover.com/esign/repo/apps.json",
     "apps": [
         {
-            "name": "CarXStreet - RCS,
+            "name": "CarXStreet - RCS",
             "bundleIdentifier": "com.carxtech.sr",
             "developerName": "@RcSrAK",
             "version": "0.5.1",
