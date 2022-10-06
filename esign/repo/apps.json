@@ -145,19 +145,6 @@
             "size": 2.8e+8
         },
         {
-            "name": "Z Defense",
-            "bundleIdentifier": "com.yorfstudio.zdefense",
-            "developerName": "Lyheang",
-            "version": "0.9.0",
-            "versionDate": "2022-10-06T16:18:00+08:00",
-            "versionDescription": "Z Defense HACK \n→ God Mode \n→ Freeze Coin \n→ Freeze Gems \n→ No Ads 🎥🚫",
-            "downloadURL": "https://is.gd/Q871xR",
-            "localizedDescription": "Z Defense",
-            "iconURL": "https://is.gd/GN1Zpi",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 6.8e+7,
-        {
             "name": "RFS",
             "bundleIdentifier": "it.rortos.realflightsimulator",
             "developerName": "RFS",
@@ -185,6 +172,18 @@
             "isLanZouCloud": 0,
             "size": 1.90e+8
         },
-
+        {
+            "name": "Z Defense",
+            "bundleIdentifier": "com.yorfstudio.zdefense",
+            "developerName": "Lyheang",
+            "version": "0.9.0",
+            "versionDate": "2022-10-06T16:18:00+08:00",
+            "versionDescription": "Z Defense HACK \n→ God Mode \n→ Freeze Coin \n→ Freeze Gems \n→ No Ads 🎥🚫",
+            "downloadURL": "https://is.gd/Q871xR",
+            "localizedDescription": "Z Defense",
+            "iconURL": "https://is.gd/GN1Zpi",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 0.69e+8
     ]
 }
