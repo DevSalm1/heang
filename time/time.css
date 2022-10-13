@@ -1,4 +1,4 @@
-@import url("https://is.gd/Fontsttf1");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap");
 
 html {
   font-size: 62.5%; /*62.5% = 10px; to make it easier to calculate REM units.*/
@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(255, 255, 255) url(https://is.gd/Mebg001) no-repeat;
+    background: rgb(255, 255, 255) url(https://is.gd/Mebg001) no-repeat;
   height: 100vh;
 }
 #clock {max-width: 600px;}
