@@ -15,7 +15,7 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/ed/b1/37edb116-ab98-4ed9-b8f5-5deb110b2edb/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/350x350bb.jpg",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 7206362
+            "size": 2e+9
         },
         {
             "name": "PUBG VNG",
@@ -28,7 +28,7 @@
             "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/ab/79/c0ab79e1-3a98-1c7b-8232-b83b8a7efaba/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/350x350bb.jpg",
             "tintColor": "018084",
             "isLanZouCloud": 0,
-            "size": 7206362
+            "size": 2e+9
         }
     ]
 }
