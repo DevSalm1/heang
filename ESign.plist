@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://ipa.ipasign.cc:2052/sign/20221023085051931/5d92ec3d-5315-242b-3fd3-427d833fc505/resign_20221023085051931.ipa</string>
+<string>https://up-ipa.com/uploads/up-ipa.comESign-4-6-6.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,9 +25,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>p3.xyz.yyyue.esign2</string>
+<string>p3.xyz.yyyue.esign.Heang</string>
 <key>bundle-version</key>
-<string>4.6.4</string>
+<string>4.6.6</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
